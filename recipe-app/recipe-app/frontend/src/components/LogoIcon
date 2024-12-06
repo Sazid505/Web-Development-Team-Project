@@ -1,0 +1,9 @@
+import LogoIcon from './LogoIcon';
+
+function App() {
+  return (
+    <div>
+      <LogoIcon />
+    </div>
+  );
+}
